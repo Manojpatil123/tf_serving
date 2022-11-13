@@ -30,7 +30,7 @@ To call by labels
 http://localhost:8601/v1/models/email_model/labels/beta:predict
 ```
 
-Body: raw
+Body : raw
 ```
 {
     "instances": [
